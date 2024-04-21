@@ -5,6 +5,9 @@
   天气组件是和风天气的免费h5组件，通过css选择器魔改样式，直接省去一笔API钱。<br>
   诗文一言是一位网友用爱发电做的免费API，原谅我隔太久忘了在哪儿找的，无法致谢。<br>
 </p>
+
+<p>演示站点<i>By Github Page</i> <a href="https://dongnax.github.io/GreyStartPage/">点击跳转</a></p>
+
 <h2>截图：</h2>
 
 <img src="https://github.com/Dongnax/GreyStartPage/assets/163965154/207e63c2-8274-4574-b400-e4e442c52b60" width="500px">
